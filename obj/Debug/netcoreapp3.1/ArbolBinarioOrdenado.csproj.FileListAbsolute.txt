@@ -1,0 +1,11 @@
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_2\ArbolBinarioOrdenado\bin\Debug\netcoreapp3.1\ArbolBinarioOrdenado.exe
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_2\ArbolBinarioOrdenado\bin\Debug\netcoreapp3.1\ArbolBinarioOrdenado.deps.json
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_2\ArbolBinarioOrdenado\bin\Debug\netcoreapp3.1\ArbolBinarioOrdenado.runtimeconfig.json
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_2\ArbolBinarioOrdenado\bin\Debug\netcoreapp3.1\ArbolBinarioOrdenado.runtimeconfig.dev.json
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_2\ArbolBinarioOrdenado\bin\Debug\netcoreapp3.1\ArbolBinarioOrdenado.dll
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_2\ArbolBinarioOrdenado\bin\Debug\netcoreapp3.1\ArbolBinarioOrdenado.pdb
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_2\ArbolBinarioOrdenado\obj\Debug\netcoreapp3.1\ArbolBinarioOrdenado.csprojAssemblyReference.cache
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_2\ArbolBinarioOrdenado\obj\Debug\netcoreapp3.1\ArbolBinarioOrdenado.AssemblyInfoInputs.cache
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_2\ArbolBinarioOrdenado\obj\Debug\netcoreapp3.1\ArbolBinarioOrdenado.AssemblyInfo.cs
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_2\ArbolBinarioOrdenado\obj\Debug\netcoreapp3.1\ArbolBinarioOrdenado.dll
+C:\Users\Administrador\Downloads\ejercicios METROCARRIER\ejercicio_2\ArbolBinarioOrdenado\obj\Debug\netcoreapp3.1\ArbolBinarioOrdenado.pdb
